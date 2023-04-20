@@ -23,7 +23,7 @@ const Workspanel = () => {
             }}
           >
             <h5 className="text-center text-work1">PORTFOLIO</h5>
-            <a href="https://github.com/AnthoStasolla/portfolio">
+            <a href="https://github.com/AnthoStasolla/portfolioo">
               Progetto 1 ...
             </a>
           </div>
