@@ -1,0 +1,43 @@
+.container-panel {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 2rem;
+  font-family: "Mulish", sans-serif;
+}
+
+.container-panel p {
+  color: #cf2b99;
+  font-size: 1.5rem;
+}
+
+.container-panel h3 {
+  font-size: 4rem;
+  color: white;
+}
+.container-panel h4 {
+  font-size: 3rem;
+  color: #9a93a2;
+}
+
+.btn:hover {
+  background-color: #cf2b99 !important;
+}
+
+@media screen and (max-width: 1240px) {
+  .container-panel p {
+    font-size: 1.1rem;
+  }
+
+  .container-panel h3 {
+    font-size: 2.5rem;
+    color: whitesmoke;
+  }
+  .container-panel h4 {
+    font-size: 1.5rem;
+    color: #9a93a2;
+  }
+}
