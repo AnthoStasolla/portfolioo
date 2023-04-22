@@ -38,7 +38,9 @@ const Workspanel = () => {
           >
             <h5 className="text-center text-work1">PROGETTO VACANZE</h5>
 
-            <a href="/">Progetto 2 ...</a>
+            <a href="https://github.com/AnthoStasolla/progetto-agenzia-viaggi">
+              Progetto 2 ...
+            </a>
           </div>
 
           <div
